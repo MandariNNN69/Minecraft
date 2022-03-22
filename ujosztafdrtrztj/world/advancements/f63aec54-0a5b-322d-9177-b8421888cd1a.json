@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-02-27 18:18:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2022-02-19 17:47:55 +0100"
@@ -32,6 +38,12 @@
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2022-02-19 18:07:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2022-02-27 18:18:38 +0100"
     },
     "done": true
   },
@@ -251,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2022-02-27 13:51:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2022-02-19 18:07:44 +0100"
@@ -404,6 +422,12 @@
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2022-02-19 19:06:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2022-02-27 18:18:38 +0100"
     },
     "done": true
   },
@@ -673,6 +697,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2022-02-20 17:06:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-02-27 18:18:38 +0100"
     },
     "done": true
   },
@@ -1136,6 +1166,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-02-26 20:23:32 +0100",
       "minecraft:taiga": "2022-02-20 16:44:15 +0100",
+      "minecraft:deep_ocean": "2022-02-27 14:04:06 +0100",
       "minecraft:frozen_river": "2022-02-20 17:13:18 +0100",
       "minecraft:birch_forest": "2022-02-20 17:35:45 +0100",
       "minecraft:bamboo_jungle": "2022-02-20 17:36:44 +0100",
@@ -1143,6 +1174,7 @@
       "minecraft:dark_forest": "2022-02-20 17:36:34 +0100",
       "minecraft:sparse_jungle": "2022-02-20 17:47:43 +0100",
       "minecraft:river": "2022-02-19 17:55:46 +0100",
+      "minecraft:lukewarm_ocean": "2022-02-27 13:57:12 +0100",
       "minecraft:snowy_plains": "2022-02-20 17:13:21 +0100",
       "minecraft:dripstone_caves": "2022-02-19 18:01:24 +0100",
       "minecraft:snowy_taiga": "2022-02-20 17:17:39 +0100",
@@ -1153,6 +1185,7 @@
       "minecraft:frozen_ocean": "2022-02-20 17:00:45 +0100",
       "minecraft:deep_frozen_ocean": "2022-02-20 17:00:46 +0100",
       "minecraft:jungle": "2022-02-20 17:39:11 +0100",
+      "minecraft:ocean": "2022-02-27 13:56:26 +0100",
       "minecraft:old_growth_spruce_taiga": "2022-02-20 16:48:17 +0100",
       "minecraft:old_growth_birch_forest": "2022-02-20 17:35:50 +0100",
       "minecraft:meadow": "2022-02-20 16:40:16 +0100",
@@ -1298,9 +1331,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2022-02-27 12:22:59 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2022-02-21 20:29:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2022-02-27 18:18:38 +0100"
     },
     "done": true
   },
@@ -1631,6 +1676,7 @@
       "sweet_berries": "2022-02-20 16:48:36 +0100",
       "cooked_beef": "2022-02-19 18:01:06 +0100",
       "beef": "2022-02-19 19:05:30 +0100",
+      "baked_potato": "2022-02-27 13:25:19 +0100",
       "apple": "2022-02-20 16:57:41 +0100",
       "bread": "2022-02-19 17:55:02 +0100",
       "rotten_flesh": "2022-02-19 17:52:04 +0100",
@@ -2020,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2022-02-27 13:51:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2022-02-19 19:10:08 +0100"
@@ -2155,6 +2207,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2022-02-19 18:01:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_the_recipe": "2022-03-19 14:34:36 +0100"
     },
     "done": true
   },
@@ -2398,6 +2456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2022-02-27 18:18:38 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2022-02-19 17:47:05 +0100"
@@ -2485,6 +2549,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2022-02-21 19:38:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2022-02-27 13:51:44 +0100"
     },
     "done": true
   },
@@ -2584,6 +2654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2022-02-27 14:09:27 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2022-02-19 18:42:15 +0100"
@@ -2593,6 +2669,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2022-02-20 11:24:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2022-03-17 20:14:55 +0100"
     },
     "done": true
   },
